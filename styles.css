@@ -1,0 +1,17 @@
+body {
+    background: url("pexels-nuno-obey-127160.jpg");
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: auto;
+    color: white;
+    padding: 0 15px;
+    background: rgb(129, 13, 129);
+    border-radius: 5px;
+    mix-blend-mode: multiply;
+    opacity: 0.5;
+}
