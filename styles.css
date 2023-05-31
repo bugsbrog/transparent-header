@@ -10,8 +10,9 @@ body {
     margin: auto;
     color: white;
     padding: 0 15px;
-    background: rgb(129, 13, 129);
+    background: black;
     border-radius: 5px;
-    mix-blend-mode: multiply;
+    mix-blend-mode: overlay;
     opacity: 0.5;
+    box-shadow: 0 0 18px black;
 }
